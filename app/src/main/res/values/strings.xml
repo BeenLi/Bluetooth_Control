@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">my_car</string>
+  <string name="shower_str11">其他方式绑定</string>
+  <string name="shower_str12">停止搜索</string>
+  <string name="shower_str4">搜索中</string>
+  <string name="shower_str5">未连接</string>
+  <string name="shower_str6">搜索终止</string>
+  <string name="return_status">小车返回状态:</string>
+  <string name="scan_btn">开始扫描</string>
+</resources>

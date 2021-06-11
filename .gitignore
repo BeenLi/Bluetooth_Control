@@ -1,0 +1,13 @@
+*.iml
+.gradle
+# 避免递归,仅在当前目录下忽略
+/local.properties  
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
